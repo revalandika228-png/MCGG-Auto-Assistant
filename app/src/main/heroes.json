@@ -1,0 +1,22 @@
+{
+  "season": "Season 7.1 (reference roster; verify in-game before production)",
+  "heroes": [
+    {
+      "name": "Sora",
+      "gold": 4,
+      "role": "Scavenger",
+      "faction": "Echomancer",
+      "portrait": null,
+      "verified_from_user_video": true
+    },
+    {
+      "name": "Thamuz",
+      "gold": 5,
+      "role": "Weapon Master",
+      "faction": "Echomancer",
+      "portrait": null,
+      "verified_from_user_video": true
+    }
+  ],
+  "note": "Starter entries only. Do not treat this as a complete roster."
+}
